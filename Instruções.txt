@@ -1,0 +1,15 @@
+Para executar o programa basta ter o arquivo Cache.py e cacheData10.txt no mesmo 
+diretório.
+	Linux:
+		python3 Cache.py
+	Windows:
+		py Cache.py
+
+A variável tamanhoCache no começo do arquivo pode ser alterada e o programa deve
+continuar funcionando, assim como a quantidade de acessos no arquivo txt.
+	cacheData10.txt para 10 acessos possíveis
+	cacheData20.txt para 20 acessos possíveis
+
+O programa foi enviado com os parâmetros base sendo
+	cacheData10.txt | 10 acessos possíveis
+	cacheTamanho = 5 | Cache com 5 espaços
